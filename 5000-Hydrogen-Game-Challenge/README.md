@@ -9,11 +9,7 @@ HydroDrive 5000 is an interactive 2D Python game built using Pygame, designed to
 Players navigate a vehicle through a maze, collect hydrogen fuel cells, build refueling stations, unlock new routes, and aim to reach 5000 points before running out of hydrogen.
 
 This project was developed by HydroDrive Coders – Group 5, as part of the 5000 Hydrogen Vehicle Challenge.
-(Team listed on presentation slide 1 
-
-Hydrogen_5000_Final_Demo 2
-
-)
+(Team listed on presentation slide 1 Hydrogen_5000_Final_Demo 2)
 
 🎮 Game Objectives
 
@@ -30,15 +26,8 @@ Unlock walls/pathways by collecting hydrogen (2 cells = 1 unlocked path).
 Avoid running out of hydrogen while trying to hit 5000 points.
 
 Choose difficulty (Easy, Medium, Hard) which scales consumption rate.
-(Features summarized from slide 3 and code mechanics 
-
-HydroDriveGame
-
- 
-
-Hydrogen_5000_Final_Demo 2
-
-)
+(Features summarized from slide 3 and code mechanics HydroDriveGame
+Hydrogen_5000_Final_Demo 2)
 
 🧠 Key Features
 🔹 Dynamic Resource Management
@@ -92,11 +81,7 @@ Difficulty Scaling	Adjusts hydrogen consumption rate
 UI Rendering	Notices, HUD, particles, textures, images
 Audio Integration	Background music + SFX events
 
-(Directly derived from the project code implementation 
-
-HydroDriveGame
-
-)
+(Directly derived from the project code implementation HydroDriveGame)
 
 💡 Important Insights From the Project
 
@@ -125,12 +110,9 @@ Efficient route planning → faster point accumulation
 
 Visual notices, sound cues, and fuel bars enhance player understanding—especially for resource-management novices.
 
-🧩 Challenges & Solutions (from slides)
+🧩 Challenges & Solutions 
 Challenge	Solution
 Balancing difficulty levels	Dynamic hydrogen consumption scaling 
-
-Hydrogen_5000_Final_Demo 2
-
 
 Managing map complexity	Modular game-loop and structured grid system
 Player confusion during early testing	Added UI notices, sounds, and a clearer start screen
