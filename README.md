@@ -1,5 +1,5 @@
 # Python-Projects
-This repository contains my data science and Python projects.  
+This repository contains my Machine Learning/ Datascience and Python projects.  
 Each project is organized in its own folder.
 
 ## Projects
